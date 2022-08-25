@@ -9,6 +9,6 @@ public class Hello {
 		System.out.println("Grant Kerrigan");
 		System.out.println("Computer Science");
 		System.out.println("Jack Williames");
-		System.out.println("Computer Science");
+		System.out.println("Computer Science!");
 	}
 }
